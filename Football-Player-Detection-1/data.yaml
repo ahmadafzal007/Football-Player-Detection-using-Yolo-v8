@@ -1,0 +1,15 @@
+names:
+- '-'
+- Roboflow is an end-to-end computer vision platform that helps you
+- This dataset was exported via roboflow.com on May 8- 2024 at 3-33 PM GMT
+- football-players-detection - v9 2024-05-08 5-24pm
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: football-player-detection-c8xfw
+  url: https://universe.roboflow.com/ahmad-afzal/football-player-detection-c8xfw/dataset/1
+  version: 1
+  workspace: ahmad-afzal
+test: ../test/images
+train: ../train/images
+val: ../valid/images
